@@ -1,0 +1,1 @@
+SELECT * FROM `sid-16-05`.speaks_partners;
